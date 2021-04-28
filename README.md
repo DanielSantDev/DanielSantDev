@@ -9,4 +9,4 @@ I'm Daniel Santana, a student, future systems analyst and developer. Currently i
 - 🌱 I’m currently learning C++ and JAVA
 - 📫 How to reach me: daniel10gja@gmail.com
 - 👨‍💻 Follow Me On Instagram
-[![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_san.t/)
+- [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_san.t/)
