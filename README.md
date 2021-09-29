@@ -6,6 +6,7 @@
 ### Hi there 👋
 
 I'm Daniel Santana, a student, future systems analyst and developer. Currently in graduation.
+
 If I helped you in any way, leave a follow up to support me.
 - 🌱 I’m currently learning C++ and JAVA
 - 📫 How to reach me: daniel10gja@gmail.com
