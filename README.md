@@ -8,7 +8,7 @@
 I'm Daniel Santana, a student, future systems analyst and developer. Currently in graduation.
 
 If I helped you in any way, leave a follow up to support me.
-- 🌱 I’m currently learning C++ and JAVA
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me: daniel10gja@gmail.com
 - 👨‍💻 Follow Me On Instagram
 - [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_san.t/)
