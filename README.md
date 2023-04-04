@@ -10,8 +10,8 @@ If I helped you in any way, leave a follow up to support me.
 
 <div align="center">
   <a href="https://github.com/DanielSantDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSantDev&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantDev&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSantDev&count_private=true&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantDev&theme=dark&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
  
