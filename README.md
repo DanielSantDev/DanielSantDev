@@ -15,7 +15,6 @@ If I helped you in any way, consider leaving a follow to support my work.
 - Designing and implementing APIs for seamless integration.
 - Database management with MySQL, MongoDB, and other relational/non-relational databases.
 - Exploring containerization and orchestration using Kubernetes.
-- Frontend development with Angular.
 
 <div align="center">
   <a href="https://github.com/DanielSantDev">
