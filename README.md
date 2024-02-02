@@ -33,22 +33,8 @@ If I helped you in any way, consider leaving a follow to support my work.
 
 ## Connect with Me
 
-<div style="display: inline_block"><br>
-  
-  <a href="https://www.linkedin.com/in/ddanielssantana/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
-  <a href="mailto:daniel10gja@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.instagram.com/daniel_san.t/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-
-  <a href="https://twitter.com/Daniel_SantanaT" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Daniel_SantanaT?logo=twitter&style=for-the-badge" target="_blank">
-  </a>
-  
-</div>
+* [Linkedin](https://www.linkedin.com/in/ddanielssantana/)
+* [Email](mailto:daniel10gja@gmail.com)
+* [WhatsApp](https://wa.me/5513988679378)
+* [Instagram](https://www.instagram.com/daniel_san.t/)
+* [X || Twitter](https://twitter.com/Daniel_SantanaT)
