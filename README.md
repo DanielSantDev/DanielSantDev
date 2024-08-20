@@ -34,7 +34,5 @@ If I helped you in any way, consider leaving a follow to support my work.
 ## Connect with Me
 
 * [Linkedin](https://www.linkedin.com/in/ddanielssantana/)
-* [Email](mailto:daniel10gja@gmail.com)
-* [WhatsApp](https://wa.me/5513988679378)
 * [Instagram](https://www.instagram.com/daniel_san.t/)
 * [X || Twitter](https://twitter.com/Daniel_SantanaT)
